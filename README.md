@@ -11,7 +11,6 @@
 **xn** (effectif choisi) par exemple sur 500 boules je vais en selectionner 30 pour cette étude. Mais rappel: plus notre effectif choisis est grand, plus nous allons avoir un intervalle petit et donc plus précis.
 
 
-### Cours: 
 <br/><br/><abbr>
 ### WIKI: https://github.com/exuva/exemple.py/wiki
 ### Cours: https://github.com/exuva/intervalle_confiance/wiki
