@@ -7,6 +7,7 @@
 <br/><br/><abbr>
 ## Ce que vous devez rentrer:
 **n** (effectif de l'echentillon) effectif totale.
+
 **xn** (effectif choisi) par exemple sur 500 boules je vais en selectionner 30 pour cette étude. Mais rappel: plus notre effectif choisis est grand, plus nous allons avoir un intervalle petit et donc plus précis.
 
 
