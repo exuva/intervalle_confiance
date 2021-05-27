@@ -7,9 +7,6 @@
 
 
 
-![image](https://user-images.githubusercontent.com/84912528/119826328-324ce880-bef8-11eb-86a5-353b953c5418.png)
-
-
 **Vous avez juste à rentrer deux éléments:**
 
 >**n** (effectif de l'echentillon) effectif totale.
