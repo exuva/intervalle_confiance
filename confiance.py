@@ -2,8 +2,8 @@ import math
 def calc():
     print("confiance")
     # fibre neutre
-    n = float(input("effectif total: "))
-    xn = float(input("effectif choisis: "))
+    n = float(input("(n) effectif tot: "))
+    xn = float(input("(xn) effectif x: "))
 
 
     f = (xn/n)
